@@ -1,6 +1,6 @@
-# my_app
+# Craftmyplate - Design implementation
 
-A new Flutter project.
+figma design- https://www.figma.com/file/vGLaS5jxmeLZ9FwUw5WQyx/CMP-Walkthrough?node-id=0%3A1&mode=dev
 
 ## Getting Started
 
